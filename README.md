@@ -52,7 +52,7 @@ This project uses a Vision Transformer-based deep learning model to generate des
 1. **Install dependencies**:
 
 ```bash
-pip install torch torchvision transformers pillow ipywidgets
+pip install -r requirements.txt
 ```
 
 2. **Start the notebook**:
