@@ -1,8 +1,0 @@
-# Essential Packages
-torch>=2.0.0
-transformers>=4.30.0
-pillow>=10.0.0
-ipywidgets>=8.0.0
-
-# Audio Playback
-IPython>=8.0.0
