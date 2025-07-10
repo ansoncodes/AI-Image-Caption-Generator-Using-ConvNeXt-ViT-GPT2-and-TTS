@@ -11,7 +11,7 @@ A Python application that generates descriptive captions for uploaded images usi
 3. **Upload your image** using the widget that appears
 4. **Enjoy AI-generated captions with speech!**
 
-## Manual Start
+## 🐢 Manual Start
 1. Go to this GitHub repository and **download** the file `AI-Image-Caption-Generator-Using-ViT-GPT2-and-TTS.ipynb`  
    - Click on the file name  
    - Then click the **“Download raw file”** button (or right-click → Save As)
