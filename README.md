@@ -12,13 +12,12 @@ A Python application that generates descriptive captions for uploaded images usi
 4. **Enjoy AI-generated captions with speech!**
 
 ## Manual Start
-1. **Open Google Colab** (colab.research.google.com)
-2. **Create a new notebook**
-3. **Copy and paste the code** from this repository
-4. **Run cells step by step:**
-   - First: Install dependencies (`!pip install TTS`)
-   - Second: Import libraries and initialize models
-   - Third: Run the image upload widget
+1. Go to this GitHub repository and **download** the file `AI-Image-Caption-Generator-Using-ViT-GPT2-and-TTS.ipynb`  
+   - Click on the file name  
+   - Then click the **“Download raw file”** button (or right-click → Save As)
+2. Open [Google Colab](https://colab.research.google.com)
+3. Click **Upload** and select the downloaded `.ipynb` file
+4. Once the notebook opens, **run each cell one by one in order**
 5. **Upload your image** and get captions with speech!
 
 No installation required - everything runs in your browser with free GPU access!
