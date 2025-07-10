@@ -20,7 +20,7 @@ A Python application that generates descriptive captions for uploaded images usi
 4. Once the notebook opens, **run each cell one by one in order**
 5. **Upload your image** and get captions with speech!
 
-No installation required - everything runs in your browser with free GPU access!
+   No installation required - everything runs in your browser with free GPU access!
 
 ## Features
 
